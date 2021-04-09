@@ -62,11 +62,6 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_localizations:
-    dependency: "direct main"
-    description: flutter
-    source: sdk
-    version: "0.0.0"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -78,7 +73,7 @@ packages:
       name: intl
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.17.0-nullsafety.2"
+    version: "0.17.0"
   matcher:
     dependency: transitive
     description:
@@ -136,19 +131,17 @@ packages:
   syncfusion_flutter_core:
     dependency: transitive
     description:
-      path: syncfusion_flutter_core
-      ref: "release/19.1.0.1"
-      resolved-ref: "9da3941292a1a2c2c7b704cec39e6e498149335f"
-      url: "https://buildautomation:Coolcomp299@gitlab.syncfusion.com/essential-studio/flutter-core"
-    source: git
-    version: "18.3.40"
+      name: syncfusion_flutter_core
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "19.1.55"
   syncfusion_flutter_datepicker:
     dependency: "direct main"
     description:
-      path: "E:\\Mar 23\\Latestreleasepickerbranch\\flutter_datepicker\\syncfusion_flutter_datepicker"
-      relative: false
-    source: path
-    version: "18.3.35-beta"
+      name: syncfusion_flutter_datepicker
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "19.1.55-beta"
   term_glyph:
     dependency: transitive
     description:
