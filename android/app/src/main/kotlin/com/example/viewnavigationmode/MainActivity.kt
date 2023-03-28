@@ -1,4 +1,4 @@
-package com.example.minimum_appointmentduration
+package com.example.viewnavigationmode
 
 import io.flutter.embedding.android.FlutterActivity
 
